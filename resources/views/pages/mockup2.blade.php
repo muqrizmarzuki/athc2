@@ -483,7 +483,7 @@ How do I get started with AHTC?
             'Message:',
             v.message || '-',
         ].join('\n');
-        window.location.href = 'mailto:enquiry@alhijrahtraining.com'
+        window.location.href = 'mailto:admin@alhijrahtraining.com'
             + '?subject=' + encodeURIComponent(subject)
             + '&body=' + encodeURIComponent(body);
     });

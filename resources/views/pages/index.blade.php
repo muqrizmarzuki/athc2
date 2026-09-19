@@ -336,7 +336,7 @@
                                 </svg>
                                 <p class="button-text" style="color: #ffffff; margin: 0;">Chat on WhatsApp</p>
                             </a>
-                            <a href="mailto:enquiry@alhijrahtraining.com?subject=Inquiry%20regarding%20AHTC%20Training%20%26%20Consultancy" class="primary-button style-two hero-button contact-quick-btn w-inline-block">
+                            <a href="mailto:admin@alhijrahtraining.com?subject=Inquiry%20regarding%20AHTC%20Training%20%26%20Consultancy" class="primary-button style-two hero-button contact-quick-btn w-inline-block">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
                                     <polyline points="22,6 12,13 2,6"></polyline>
@@ -354,7 +354,7 @@
                                     </div>
                                     <div class="contact-form-field-wrapper">
                                         <label class="contact-form-label" for="Email">Your Email*</label>
-                                        <input class="contact-form-field w-input" id="Email" maxlength="256" name="Email" placeholder="enquiry@alhijrahtraining.com" required="" type="email"/>
+                                        <input class="contact-form-field w-input" id="Email" maxlength="256" name="Email" placeholder="admin@alhijrahtraining.com" required="" type="email"/>
                                     </div>
                                 </div>
                                 <div class="contact-field-row">
@@ -408,7 +408,7 @@
                         <div class="footer-lists-column">
                             <h3 class="footer-list-title">Contact AHTC</h3>
                             <div class="footer-list-items-wrapper">
-                                <a class="footer-list-item" href="mailto:enquiry@alhijrahtraining.com">enquiry@alhijrahtraining.com</a>
+                                <a class="footer-list-item" href="mailto:admin@alhijrahtraining.com">admin@alhijrahtraining.com</a>
                                 <a class="footer-list-item" href="tel:+60192680787">+6019 268 0787</a>
                                 <div class="footer-list-item address-block">11-1, 1st Floor, Jalan Putra Mahkota 7/8C</div>
                                 <div class="footer-list-item address-block">Pusat Bandar Putra Point, Putra Heights</div>

@@ -31,7 +31,7 @@
         "@@type": "ContactPoint",
         "telephone": "+60192680787",
         "contactType": "customer service",
-        "email": "enquiry@alhijrahtraining.com",
+        "email": "admin@alhijrahtraining.com",
         "areaServed": "MY",
         "availableLanguage": ["en", "ms"]
       },
@@ -48,7 +48,8 @@
     </script>
 
     <!-- Favicon -->
-    <link href="{{ asset('template2_assets/img/favicon.png') }}" rel="icon" type="image/jpg"/>
+    <link href="{{ asset('assets/images/AHTC-Favicon.png') }}" rel="icon" type="image/png"/>
+    <link href="{{ asset('assets/images/AHTC-Favicon.png') }}" rel="apple-touch-icon"/>
 
     <!-- Bootstrap CSS -->
     <link href="{{ asset('template2_assets/css/bootstrap.min.css') }}" rel="stylesheet"/>

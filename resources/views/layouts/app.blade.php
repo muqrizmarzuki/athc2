@@ -38,7 +38,7 @@
         "@type": "ContactPoint",
         "telephone": "+60192680787",
         "contactType": "customer service",
-        "email": "enquiry@alhijrahtraining.com",
+        "email": "admin@alhijrahtraining.com",
         "areaServed": "MY",
         "availableLanguage": ["en", "ms"]
       },
@@ -57,8 +57,8 @@
     <link crossorigin="anonymous" href="https://cdn.prod.website-files.com" rel="preconnect"/>
     <link href="{{ asset('assets/cdn_prod_website-files_com/67c0042b87279d5a0f828374/css/fincito.webflow.d1f292b1e.css') }}" rel="stylesheet" type="text/css"/>
     <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
-    <link href="{{ asset('assets/cdn_prod_website-files_com/67c0042b87279d5a0f828374/67da65d99b55c3446fa8d154_Favicon.svg') }}" rel="shortcut icon" type="image/x-icon"/>
-    <link href="{{ asset('assets/cdn_prod_website-files_com/67c0042b87279d5a0f828374/67da65deee69a3b0fb420e4f_Webclip.svg') }}" rel="apple-touch-icon"/>
+    <link href="{{ asset('assets/images/AHTC-Favicon.png') }}" rel="shortcut icon" type="image/png"/>
+    <link href="{{ asset('assets/images/AHTC-Favicon.png') }}" rel="apple-touch-icon"/>
 </head>
 <body>
     <main class="main-wrapper">
