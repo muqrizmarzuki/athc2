@@ -507,7 +507,33 @@ How do I get started with AHTC?
 <!-- Footer Area  -->
 <div class="footer-area footer-two">
 <div class="container">
-<div class="row">
+<div class="row justify-content-center pt-90 wow fadeInUp animated" data-wow-delay="200ms">
+<div class="col-xl-10 text-center">
+<div class="footer-inner">
+<h2 class="text-white">Al-Hijrah Training &amp; Consultancy (AHTC)</h2>
+<p class="text-white mt-20" style="font-size: 16px;">11-1, 1st Floor, Jalan Putra Mahkota 7/8C, Pusat Bandar Putra Point, Putra Heights, 47650 Subang Jaya, Selangor, Malaysia</p>
+</div>
+</div>
+</div>
+<div class="row mt-60 wow fadeInDown animated" data-wow-delay="600ms">
+<div class="col-md-6 col-12">
+<div class="contact-info d-flex">
+<h5 class="text-white"><span>Call Us:</span> +6019-268 0787</h5>
+<h6 class="text-white">admin@alhijrahtraining.com</h6>
+</div>
+</div>
+<div class="col-md-6 col-12 text-end">
+<div class="footer-menu">
+<ul>
+<li><a href="#about">About Us <span>/</span></a></li>
+<li><a href="#services">Services <span>/</span></a></li>
+<li><a href="{{ route('blog') }}">Blog<span>/</span></a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row mt-60">
 <div class="footer-bottom">
 <p class="text-white">© {{ date('Y') }} Al-Hijrah Training &amp; Consultancy (AHTC). All rights reserved.</p>
 </div>
